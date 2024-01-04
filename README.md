@@ -8,7 +8,6 @@
 - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 
